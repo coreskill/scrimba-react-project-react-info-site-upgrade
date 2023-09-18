@@ -2,7 +2,7 @@
 
 ## View
 
-Coming soon
+Go to [this page](https://coreskill.github.io/scrimba-react-project-react-info-site-upgrade/).
 
 ## Install
 
